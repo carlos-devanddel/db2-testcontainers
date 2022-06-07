@@ -1,0 +1,5 @@
+CREATE TABLE USERS
+(
+    ID   VARCHAR(50),
+    NAME VARCHAR(50)
+);
